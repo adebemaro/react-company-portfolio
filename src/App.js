@@ -13,6 +13,7 @@ function App() {
         <h3>Another Text</h3>
         <p>Third Commit</p>
         <p>Fourth commit</p>
+        <h4>Another Merge</h4>
       </header>
     </div>
   );
