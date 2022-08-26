@@ -12,6 +12,7 @@ function App() {
         <h2>React text</h2>
         <h3>Another Text</h3>
         <p>Third Commit</p>
+        <p>Fourth commit</p>
       </header>
     </div>
   );
