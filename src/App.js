@@ -10,6 +10,7 @@ function App() {
         <p>this is a paragraph</p>
         <h2>React text</h2>
         <h3>Another Text</h3>
+        <h4>Another Merge</h4>
       </header>
     </div>
   );
