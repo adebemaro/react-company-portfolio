@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h2>Nav Bar Commit</h2>
         <h1>This is my react App</h1>
         <h2> No Level</h2>
         <p>this is a paragraph</p>
