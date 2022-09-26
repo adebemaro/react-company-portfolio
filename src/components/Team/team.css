@@ -1,7 +1,7 @@
 .team {
   height: 1200px;
 }
-.team-members-item {
+.team-members-item img {
   height: 240px;
   object-fit: cover;
   cursor: pointer;
