@@ -7,6 +7,8 @@ import Service from "./components/Service/Service";
 import Testimonial from "./components/Testimonial/Testimonial";
 import Subscription from "./components/Subscription/Subscription";
 import ScrollToTop from "react-scroll-to-top";
+import Footer from "./components/Footer/Footer";
+import Team from "./components/Team/Team";
 function App() {
   return (
     <>
@@ -14,8 +16,10 @@ function App() {
       <Home />
       <About />
       <Service />
+      <Team />
       <Testimonial />
       <Subscription />
+      <Footer />
       <ScrollToTop
         smooth
         color="white"

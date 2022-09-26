@@ -1,0 +1,11 @@
+.team {
+  height: 1200px;
+}
+.team-members-item {
+  height: 240px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.tema-info {
+  padding: 10px;
+}
